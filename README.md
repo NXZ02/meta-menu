@@ -5,5 +5,5 @@
 # apt upgrade
 # apt install git 
 # cd meta-menu
-# chmod +x install.sh
+# chmod +x *
 # ./run.sh หรือเมนู
